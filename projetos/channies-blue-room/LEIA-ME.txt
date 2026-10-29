@@ -1,0 +1,14 @@
+CHANNIE'S BLUE ROOM | PROJETO 5
+
+Abra index.html no navegador ou publique os arquivos no GitHub Pages.
+Este projeto usa SOMENTE HTML e CSS. Não precisa de JavaScript, frameworks nem servidores.
+
+CONTEÚDO
+- Galeria com seis fotos enviadas pela usuária e ampliação por âncoras (CSS :target)
+- Perfil de Bang Chan, líder do Stray Kids e integrante do 3RACHA
+- Cartão especial do JAPAN 4th Mini Album "SUIATSU", anúncio para 25/11/2026
+- Layout responsivo e animações discretas com CSS
+
+FONTES: perfil oficial JYP, Spotify Newsroom (3RACHA), Sony Music (SUIATSU), listadas no site.
+
+IMPORTANTE: projeto de fã e demonstração de portfólio, sem afiliação oficial. Fotografias enviadas pela usuária: confira os direitos de publicação antes de tornar a página pública.

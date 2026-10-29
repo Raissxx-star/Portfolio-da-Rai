@@ -1,0 +1,1 @@
+Atualização: a seção "Meus objetivos profissionais" foi inserida na página sobre.html, entre a apresentação e a seção "Além dos códigos". O texto aprovado foi preservado. Os estilos foram adicionados ao style.css; nenhuma dependência nova foi incluída.

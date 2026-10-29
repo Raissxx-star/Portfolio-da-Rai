@@ -1,0 +1,9 @@
+ATUALIZAÇÃO · 22/10/2026
+
+- Inseridas três badges Cisco Networking Academy em Especializações.
+- Inseridos três certificados Cisco (HTML Essentials, CSS Essentials e JavaScript Essentials 1) na página Certificados.
+- Mantidos os oito certificados SENAI com RG oculto, os três projetos e os textos pessoais.
+- Não foram inventados links de verificação nem cargas horárias.
+- Os PDFs da Cisco exibem nome completo e identificadores de certificado; revise antes de publicar em um site público.
+
+Basta abrir index.html após extrair o ZIP. Para publicar, mantenha a estrutura completa das pastas.

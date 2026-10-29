@@ -1,0 +1,1 @@
+Portfólio atualizado: página Sobre mim preenchida com o texto aprovado, seção de gostos pessoais aguardando informações, e botão de contato atualizado com o e-mail informado. Para ver: abra index.html, depois Sobre mim. CSS em style.css e JS em script.js.

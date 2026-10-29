@@ -1,0 +1,1 @@
+A página sobre.html agora inclui os gostos pessoais compartilhados por Raissa: música, criadores do YouTube, cores favoritas, filmes e quadrinhos. Nenhum outro conteúdo do portfólio foi substituído. Para visualizar, abra index.html e acesse Sobre mim.

@@ -1,0 +1,9 @@
+ESPECIALIZAÇÕES E HABILIDADES
+
+Níveis informados pela Raissa:
+Intermediário: HTML, CSS e Canva.
+Em aprendizado: JavaScript e Figma.
+
+A seção de insígnias digitais é apenas um espaço preparado para futuras badges. Nenhuma badge foi inventada ou adicionada sem arquivo.
+
+Para acessar, abra index.html e clique em Especializações.

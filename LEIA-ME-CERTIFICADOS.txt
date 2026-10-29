@@ -1,0 +1,3 @@
+Foram adicionados apenas os 8 certificados enviados. Os PDFs nesta pasta foram tratados para ocultar o número do RG antes da publicação. Confira os arquivos antes de hospedar o site. Para abrir o site, use index.html e clique em Certificados.
+
+ATUALIZAÇÃO: 3 certificados Cisco Networking Academy adicionais (HTML Essentials, CSS Essentials e JavaScript Essentials 1), com badges nas pastas assets/badges/ e certificados em assets/certificados/cisco-*.pdf. Total no portfólio: 11 certificados e 3 badges. As versões SENAI já existentes continuam com o RG oculto. Antes de publicar, confirme que deseja divulgar seu nome completo e dados de certificação presentes nos PDFs Cisco.

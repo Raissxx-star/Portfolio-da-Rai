@@ -1,0 +1,2 @@
+O Sistema Solar continua integrado ao portfólio em projetos/sistema-solar/index.html.
+Para publicá-lo separadamente no GitHub Pages, utilize o arquivo sistema_solar_para_github.zip fornecido à parte.

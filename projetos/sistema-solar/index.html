@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cosmos | Explore o Sistema Solar</title>
+<link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+<div class="stars"></div>
+<header><a class="brand" href="#inicio">✦ COSMOS<span> / ATLAS ESPACIAL</span></a><nav><a href="#universo">Explorar</a><a href="#sobre">Sobre</a></nav></header>
+<main id="inicio">
+<section class="intro"><p class="eyebrow">✧ UMA VIAGEM PELO NOSSO UNIVERSO</p><h1>O universo está<br><em>ao seu alcance.</em></h1><p>Explore os oito planetas do Sistema Solar. Selecione um mundo e descubra seus segredos.</p><a class="explore" href="#universo">Começar exploração ↓</a></section>
+<section class="experience" id="universo"><div class="section-heading"><div><p class="eyebrow">01 / NOSSO SISTEMA</p><h2>Uma dança <em>cósmica.</em></h2></div><button id="pause" class="control" aria-pressed="false">Ⅱ Pausar órbitas</button></div>
+<div class="layout"><div class="solar-wrap"><div class="solar" id="solar" aria-label="Sistema Solar animado"><button class="sun" data-planet="sol" aria-label="Sol"><span></span></button>
+<div class="orbit orbit-1"><button class="planet mercury" data-planet="mercurio" aria-label="Mercúrio"></button></div>
+<div class="orbit orbit-2"><button class="planet venus" data-planet="venus" aria-label="Vênus"></button></div>
+<div class="orbit orbit-3"><button class="planet earth" data-planet="terra" aria-label="Terra"></button></div>
+<div class="orbit orbit-4"><button class="planet mars" data-planet="marte" aria-label="Marte"></button></div>
+<div class="orbit orbit-5"><button class="planet jupiter" data-planet="jupiter" aria-label="Júpiter"></button></div>
+<div class="orbit orbit-6"><button class="planet saturn" data-planet="saturno" aria-label="Saturno"></button></div>
+<div class="orbit orbit-7"><button class="planet uranus" data-planet="urano" aria-label="Urano"></button></div>
+<div class="orbit orbit-8"><button class="planet neptune" data-planet="netuno" aria-label="Netuno"></button></div>
+</div><p class="hint">✦ Clique em qualquer planeta para descobrir mais</p></div>
+<aside class="info" aria-live="polite"><div class="info-top"><span id="number">PLANETA 03 / 08</span><span class="live">● EXPLORAÇÃO ATIVA</span></div><div class="planet-art earth" id="art"></div><p class="eyebrow" id="type">PLANETA ROCHOSO</p><h3 id="name">Terra</h3><p id="description">Nosso lar azul, o único mundo conhecido que abriga vida. Oceanos, continentes e uma atmosfera protetora tornam a Terra extraordinária.</p><div class="stats"><div><small>DIÂMETRO</small><strong id="diameter">12.742 km</strong></div><div><small>ANO</small><strong id="year">365 dias</strong></div><div><small>TEMP. MÉDIA</small><strong id="temperature">15 °C</strong></div><div><small>LUAS</small><strong id="moons">1</strong></div></div><div class="fact"><span>✧ VOCÊ SABIA?</span><p id="fact">A Terra é o único planeta conhecido com água líquida estável na superfície.</p></div></aside></div>
+<div class="planet-picker" id="picker" aria-label="Selecionar planeta"></div></section>
+<section id="sobre" class="about"><p class="eyebrow">02 / SOBRE A EXPERIÊNCIA</p><h2>O espaço é cheio de <em>histórias.</em></h2><p>Uma experiência interativa para aprender astronomia de um jeito visual. As órbitas, os tamanhos e as velocidades foram adaptados para facilitar a exploração e não representam uma escala real.</p></section>
+</main><footer><span>✦ COSMOS</span><span>Feito com curiosidade, HTML, CSS e JavaScript.</span></footer>
+<script src="script.js?v=3"></script>
+</body></html>
